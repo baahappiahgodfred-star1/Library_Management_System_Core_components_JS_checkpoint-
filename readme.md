@@ -27,3 +27,6 @@ src/
 ├── services/
 ├── utils/
 └── app.js
+
+## Author
+**Godfred Appiah Baah**
